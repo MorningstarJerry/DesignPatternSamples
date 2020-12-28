@@ -1,0 +1,13 @@
+C:\Users\2294765\source\repos\dotnettry\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryMathodPattern.exe
+C:\Users\2294765\source\repos\dotnettry\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryMathodPattern.deps.json
+C:\Users\2294765\source\repos\dotnettry\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryMathodPattern.runtimeconfig.json
+C:\Users\2294765\source\repos\dotnettry\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryMathodPattern.runtimeconfig.dev.json
+C:\Users\2294765\source\repos\dotnettry\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryMathodPattern.dll
+C:\Users\2294765\source\repos\dotnettry\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryMathodPattern.pdb
+C:\Users\2294765\source\repos\dotnettry\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryMathodPattern.csprojAssemblyReference.cache
+C:\Users\2294765\source\repos\dotnettry\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryMathodPattern.AssemblyInfoInputs.cache
+C:\Users\2294765\source\repos\dotnettry\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryMathodPattern.AssemblyInfo.cs
+C:\Users\2294765\source\repos\dotnettry\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryMathodPattern.csproj.CoreCompileInputs.cache
+C:\Users\2294765\source\repos\dotnettry\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryMathodPattern.dll
+C:\Users\2294765\source\repos\dotnettry\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryMathodPattern.pdb
+C:\Users\2294765\source\repos\dotnettry\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryMathodPattern.genruntimeconfig.cache

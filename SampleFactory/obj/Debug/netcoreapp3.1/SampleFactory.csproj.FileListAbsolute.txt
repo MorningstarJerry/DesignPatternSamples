@@ -1,0 +1,13 @@
+C:\Users\2294765\source\repos\dotnettry\SampleFactory\bin\Debug\netcoreapp3.1\SampleFactory.exe
+C:\Users\2294765\source\repos\dotnettry\SampleFactory\bin\Debug\netcoreapp3.1\SampleFactory.deps.json
+C:\Users\2294765\source\repos\dotnettry\SampleFactory\bin\Debug\netcoreapp3.1\SampleFactory.runtimeconfig.json
+C:\Users\2294765\source\repos\dotnettry\SampleFactory\bin\Debug\netcoreapp3.1\SampleFactory.runtimeconfig.dev.json
+C:\Users\2294765\source\repos\dotnettry\SampleFactory\bin\Debug\netcoreapp3.1\SampleFactory.dll
+C:\Users\2294765\source\repos\dotnettry\SampleFactory\bin\Debug\netcoreapp3.1\SampleFactory.pdb
+C:\Users\2294765\source\repos\dotnettry\SampleFactory\obj\Debug\netcoreapp3.1\SampleFactory.csprojAssemblyReference.cache
+C:\Users\2294765\source\repos\dotnettry\SampleFactory\obj\Debug\netcoreapp3.1\SampleFactory.AssemblyInfoInputs.cache
+C:\Users\2294765\source\repos\dotnettry\SampleFactory\obj\Debug\netcoreapp3.1\SampleFactory.AssemblyInfo.cs
+C:\Users\2294765\source\repos\dotnettry\SampleFactory\obj\Debug\netcoreapp3.1\SampleFactory.csproj.CoreCompileInputs.cache
+C:\Users\2294765\source\repos\dotnettry\SampleFactory\obj\Debug\netcoreapp3.1\SampleFactory.dll
+C:\Users\2294765\source\repos\dotnettry\SampleFactory\obj\Debug\netcoreapp3.1\SampleFactory.pdb
+C:\Users\2294765\source\repos\dotnettry\SampleFactory\obj\Debug\netcoreapp3.1\SampleFactory.genruntimeconfig.cache

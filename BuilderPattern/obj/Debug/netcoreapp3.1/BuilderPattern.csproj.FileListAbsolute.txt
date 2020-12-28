@@ -1,0 +1,13 @@
+C:\Users\2294765\source\repos\dotnettry\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.exe
+C:\Users\2294765\source\repos\dotnettry\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.deps.json
+C:\Users\2294765\source\repos\dotnettry\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.runtimeconfig.json
+C:\Users\2294765\source\repos\dotnettry\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.runtimeconfig.dev.json
+C:\Users\2294765\source\repos\dotnettry\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.dll
+C:\Users\2294765\source\repos\dotnettry\BuilderPattern\bin\Debug\netcoreapp3.1\BuilderPattern.pdb
+C:\Users\2294765\source\repos\dotnettry\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.csprojAssemblyReference.cache
+C:\Users\2294765\source\repos\dotnettry\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\2294765\source\repos\dotnettry\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.AssemblyInfo.cs
+C:\Users\2294765\source\repos\dotnettry\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\2294765\source\repos\dotnettry\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.dll
+C:\Users\2294765\source\repos\dotnettry\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.pdb
+C:\Users\2294765\source\repos\dotnettry\BuilderPattern\obj\Debug\netcoreapp3.1\BuilderPattern.genruntimeconfig.cache
